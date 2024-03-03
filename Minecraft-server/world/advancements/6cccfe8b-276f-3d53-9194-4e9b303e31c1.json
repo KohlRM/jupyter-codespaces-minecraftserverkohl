@@ -1,0 +1,27 @@
+{
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-03-03 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-03-03 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-03-03 13:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-03-03 13:34:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}
